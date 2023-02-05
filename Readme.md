@@ -72,9 +72,13 @@ your_mod
    重新启动`神州志西游`游戏进行测试。
 
 ## 上传mod 到steam 创意工坊
+
 我们开发了一个用于上传mod到steam 创意工坊的程序，如下图所示。
 
 ![Alt text](uploader.jpg?raw=true)
+
+下载创意工坊上传程序 [workshop_uploader](workshop_uploader.zip)
+
 本程序包含两个主要功能：
 1. 创建一个新的创意工坊
    - 在`输入创意工坊名称`的空白处，输入你的创意工坊名称 （内容不能空缺）
