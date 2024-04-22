@@ -1,4 +1,8 @@
 # 神州志·西游 创意工坊开发手册
+## 通过Harmony制作Mod
+```
+https://steamcommunity.com/sharedfiles/filedetails/?id=3227400181
+```
 ## 功能介绍
 目前提供有限支持，允许玩家制作并上传自己的mod来替换游戏卡牌的图片。
 
